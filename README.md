@@ -1,3 +1,3 @@
 # hello-world-html
 
-This repository contains the bare minimum necessary to deploy frontend code with Github Pages.
+This repository was created to test what minimum HTML structure is needed before index.html can be deployed with Github Pages.
